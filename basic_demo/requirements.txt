@@ -4,9 +4,9 @@ torchvision>=0.18.0
 transformers>=4.40.2
 huggingface-hub>=0.23.0
 pillow>=10.3.0
-chainlit>=1.1.101
+chainlit==1.1.101
 pydantic>=2.7.1
-fastapi=0.110.1
+fastapi==0.110.1
 uvicorn>=0.29.0
 timm>=0.9.16
 openai>=1.28.1
